@@ -1,4 +1,4 @@
-# Bluetooth Toggle Tray Application
+# ᛒ Bluetooth Toggle Tray Application
 
 > A simple, elegant application to toggle Bluetooth on or off directly from your system tray. Built with Python and PyQt6, this project offers a lightweight and user-friendly solution to manage your Bluetooth connectivity with ease. 🚀
 
